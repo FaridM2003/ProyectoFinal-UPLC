@@ -43,9 +43,9 @@ CREATE TABLE `alumno` (
 --
 
 INSERT INTO `alumno` (`matricula`, `Nombre`, `Apellidos`, `Contrasenia`, `fecha_nac`, `direccion`, `telefono`, `fech_ini`) VALUES
-(1, 'Farid', 'Martinez Hernandez', 'patata', '2003-03-10', 'av. Jose Maria Morelos 242', '+52753144890', '2021-09-01'),
+(1, 'Farid', 'Martinez Hernandez', 'patata', '2003-03-10', 'av. Jose Maria Morelos 242', '+527534534890', '2021-09-01'),
 (2, 'Julio', 'Alvarez Garcia', 'alvJul2', '1998-10-30', NULL, '+527537537531', '2021-09-01'),
-(3, 'Luis Angel', 'Culebro Ballato', 'LuCuBa', '2001-09-11', NULL, '+527537537531', '2021-09-01'),
+(3, 'Luis Angel', 'Culebro Ballato', 'LuCuBa', '2001-09-11', NULL, '+527437537531', '2021-09-01'),
 (4, 'Aldo', 'Patata', 'AlPa', '1994-01-01', NULL, '+527537537531', '2023-04-01'),
 (5, 'Androud', 'Carlos', 'AnCa', '2001-01-01', NULL, '+52753000000', '2021-09-01');
 
